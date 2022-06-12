@@ -23,4 +23,4 @@
   - your feelings.
   
   // Live Demo // 
-  
+  https://philoibrahim.github.io/weatherJournalApp_FWD/
